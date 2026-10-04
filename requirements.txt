@@ -1,0 +1,4 @@
+streamlit>=1.38,<2
+supabase>=2.7,<3
+openai>=1.50,<3
+pandas>=2.2,<3
